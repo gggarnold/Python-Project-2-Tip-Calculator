@@ -20,3 +20,5 @@ tipanswer = (totalbill_as_float / billsplit_as_int) * percentagetip_as_int
 tipanswerfloat = ("%.2f" % tipanswer)
 
 print(f"Each person should pay ${tipanswerfloat}")
+
+print("We hope you enjoyed your meal!")
